@@ -1,0 +1,1 @@
+1. To fix the bug, the function needs to convert the input into a number to ensure it adds them together. This can be done with the "Number()" function. In addition, it is a good idea to check the input to ensure that it is something that can generate a number. This can be done with the "isNaN()" function.
